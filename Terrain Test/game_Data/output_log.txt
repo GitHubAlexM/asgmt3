@@ -1,0 +1,42 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R3 Graphics (ID=0x9850)
+    Vendor:   ATI
+    VRAM:     1008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.166 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: e4d4 -> priority: 1 
+Platform assembly: C:\Users\Alexander\Desktop\Game_Assignment_3\Terrain Test\game_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.272686 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 516.
+Total: 0.889131 ms (FindLiveObjects: 0.121970 ms CreateObjectMapping: 0.037047 ms MarkObjects: 0.481042 ms  DeleteObjects: 0.246220 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.472443 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 516.
+Total: 0.882291 ms (FindLiveObjects: 0.121400 ms CreateObjectMapping: 0.042176 ms MarkObjects: 0.450835 ms  DeleteObjects: 0.265029 ms)
+
