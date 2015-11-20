@@ -1,0 +1,30 @@
+new project
+get rid of main camera
+model, materials, textures, prefabs, _scenes, _scripts folders
+save scene as main
+
+go to blender
+get rid of the default cube by pressing x upon selection of it
+hierarchy, hide objects
+
+add a plain to the scene
+shift + a
+plain
+blender render to blender game, n for normal
+
+multitexture shading for glsl
+
+third tab in the inspector
+units from none to metric
+
+now look at the object
+s key to scale
+cover up the grid
+n key you can see the dimensions
+change it to 16 meters by 16 meters
+rember to get into meters you changed it into metrics
+unity uses metrics
+n key
+
+a material is a container that wraps around your model.
+i got lost just before 11:32 lol
